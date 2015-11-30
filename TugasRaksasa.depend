@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1448801688 source:d:\ardi\kuliah\asd\tugasraksasa\tugasraksasa\tubes.cpp
+	"tubes.h"
+
+1448799445 source:d:\ardi\kuliah\asd\tugasraksasa\tugasraksasa\main.cpp
+	"tubes.h"
+
+1448801396 d:\ardi\kuliah\asd\tugasraksasa\tugasraksasa\tubes.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<iostream>
+
